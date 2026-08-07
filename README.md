@@ -52,3 +52,12 @@ Recommendation functionality includes:
 - Analyzing customer preferences
 - Generating product recommendations
 - Displaying recommended products
+
+## Sprint 10 - Administration
+
+Administration functionality includes:
+
+- Managing users
+- Managing products
+- Managing orders
+- Managing user roles and permissions
