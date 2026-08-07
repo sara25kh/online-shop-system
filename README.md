@@ -41,7 +41,20 @@ Online Shop System.
 - Authentication mechanism
 - User session management
 
-- 
+## Sprint 3 - Product Catalog
+
+Implement the core product catalog functionality of the
+Online Shop System.
+
+- Product creation
+- Product information management
+- Product listing
+- Product search
+- Product filtering
+- Product categorization
+- Product image management
+- Product availability display
+  
 ## Sprint 4 - Shopping Cart
 
 Shopping Cart module implementation.
