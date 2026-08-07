@@ -1,5 +1,34 @@
 # online-shop-system
 Online Shop System - Software Engineering Project
+
+# Sprint 1 - Project Setup and Architecture
+
+## Sprint Objective
+
+Establish the initial technical foundation of the Online Shop System.
+
+## Main Activities
+
+- Create the project repository
+- Define the initial software architecture
+- Define the database structure
+- Configure the development environment
+- Define the initial project structure
+- Prepare the development workflow
+
+## Expected Result
+
+A stable initial project structure is available and the
+development team can start implementing the system features.
+
+## Deliverables
+
+- GitHub repository
+- Initial architecture documentation
+- Initial database design
+- Project development structure
+
+  
 ## Sprint 4 - Shopping Cart
 
 Shopping Cart module implementation.
