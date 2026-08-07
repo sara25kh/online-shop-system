@@ -25,3 +25,12 @@ Order management functionality includes:
 - Displaying order details
 - Viewing order history
 - Tracking order status
+
+## Sprint 7 - Inventory Management
+
+Inventory functionality includes:
+
+- Updating product stock
+- Checking product availability
+- Preventing orders for unavailable products
+- Managing stock changes after successful orders
