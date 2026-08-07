@@ -61,3 +61,12 @@ Administration functionality includes:
 - Managing products
 - Managing orders
 - Managing user roles and permissions
+
+## Sprint 11 - Reporting
+
+Reporting functionality includes:
+
+- Generating sales reports
+- Viewing order statistics
+- Monitoring product sales
+- Supporting administrative reporting
