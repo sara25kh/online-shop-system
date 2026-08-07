@@ -43,3 +43,12 @@ Review functionality includes:
 - Rating purchased products
 - Displaying customer reviews
 - Validating review eligibility
+
+## Sprint 9 - Recommendation Engine
+
+Recommendation functionality includes:
+
+- Collecting product interaction data
+- Analyzing customer preferences
+- Generating product recommendations
+- Displaying recommended products
