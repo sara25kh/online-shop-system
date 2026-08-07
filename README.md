@@ -28,7 +28,20 @@ development team can start implementing the system features.
 - Initial database design
 - Project development structure
 
-  
+## Sprint 2 - User Management
+
+Implement the basic user management functionality of the
+Online Shop System.
+
+- User registration
+- User login
+- User logout
+- Password validation
+- Password encryption
+- Authentication mechanism
+- User session management
+
+- 
 ## Sprint 4 - Shopping Cart
 
 Shopping Cart module implementation.
