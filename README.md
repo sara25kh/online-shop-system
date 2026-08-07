@@ -1,6 +1,6 @@
 # online-shop-system
 Online Shop System - Software Engineering Project
-## Sprint 4
+## Sprint 4 - Shopping Cart
 
 Shopping Cart module implementation.
 
@@ -16,3 +16,12 @@ Checkout functionality includes:
 - Calculating the final order amount
 - Connecting to the payment gateway
 - Processing successful and failed payments
+
+## Sprint 6 - Order Management
+
+Order management functionality includes:
+
+- Creating an order after successful payment
+- Displaying order details
+- Viewing order history
+- Tracking order status
