@@ -34,3 +34,12 @@ Inventory functionality includes:
 - Checking product availability
 - Preventing orders for unavailable products
 - Managing stock changes after successful orders
+
+## Sprint 8 - Review and Rating
+
+Review functionality includes:
+
+- Submitting product reviews
+- Rating purchased products
+- Displaying customer reviews
+- Validating review eligibility
